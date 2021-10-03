@@ -8,4 +8,3 @@ venue: 'In the proceedings of 2012 IEEE 31st International Performance Computing
 authors:  Longjiang Guo,  Jinsheng Duan,  Jinbao Li,  Lei Yu,  Haiying Shen
 citation: ' Longjiang Guo,  Jinsheng Duan,  Jinbao Li,  Lei Yu,  Haiying Shen, &quot;HAS: Hidden anti-theft system based on wireless sensor networks.&quot; In the proceedings of 2012 IEEE 31st International Performance Computing and Communications Conference (IPCCC), 2012.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=HAS:+Hidden+anti+theft+system+based+on+wireless+sensor+networks){:target="_blank"} for full citation

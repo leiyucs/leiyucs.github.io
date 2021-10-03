@@ -8,4 +8,3 @@ venue: 'IEEE Transactions on Mobile Computing'
 authors:  Yan Zhuang,  Lei Yu,  Haiying Shen,  William Kolodzey,  Nematollah Iri,  Gregori Caulfield,  Shenghua He
 citation: ' Yan Zhuang,  Lei Yu,  Haiying Shen,  William Kolodzey,  Nematollah Iri,  Gregori Caulfield,  Shenghua He, &quot;Data Collection with Accuracy-Aware Congestion Control in Sensor Networks.&quot; IEEE Transactions on Mobile Computing, 2019.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Data+Collection+with+Accuracy+Aware+Congestion+Control+in+Sensor+Networks){:target="_blank"} for full citation

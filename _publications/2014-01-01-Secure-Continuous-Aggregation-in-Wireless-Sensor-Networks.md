@@ -8,4 +8,3 @@ venue: 'IEEE Transactions on Parallel and Distributed Systems'
 authors:  Lei Yu,  Jianzhong Li,  Siyao Cheng,  Shuguang Xiong,  Haiying Shen
 citation: ' Lei Yu,  Jianzhong Li,  Siyao Cheng,  Shuguang Xiong,  Haiying Shen, &quot;Secure Continuous Aggregation in Wireless Sensor Networks.&quot; IEEE Transactions on Parallel and Distributed Systems, 2014.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Secure+Continuous+Aggregation+in+Wireless+Sensor+Networks){:target="_blank"} for full citation

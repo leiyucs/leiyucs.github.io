@@ -8,4 +8,3 @@ venue: 'In the proceedings of INFOCOM 2010'
 authors:  Siyao Cheng,  Jianzhong Li,  Qianqian Ren,  Lei Yu
 citation: ' Siyao Cheng,  Jianzhong Li,  Qianqian Ren,  Lei Yu, &quot;Bernoulli sampling based ($epsilon$, $delta$)-approximate aggregation in large-scale sensor networks.&quot; In the proceedings of INFOCOM 2010, 2010.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Bernoulli+sampling+based+($epsilon$,+$delta$)+approximate+aggregation+in+large+scale+sensor+networks){:target="_blank"} for full citation

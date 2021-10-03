@@ -8,4 +8,3 @@ venue: 'In the proceedings of 2013 Proceedings IEEE INFOCOM'
 authors:  Chenxi Qiu,  Lei Yu,  Haiying Shen,  Sohraab Soltani
 citation: ' Chenxi Qiu,  Lei Yu,  Haiying Shen,  Sohraab Soltani, &quot;Low-latency multi-flow broadcasts in fading wireless networks.&quot; In the proceedings of 2013 Proceedings IEEE INFOCOM, 2013.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Low+latency+multi+flow+broadcasts+in+fading+wireless+networks){:target="_blank"} for full citation

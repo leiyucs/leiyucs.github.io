@@ -8,4 +8,3 @@ venue: 'IEEE Transactions on Parallel and Distributed Systems'
 authors:  Jianzhong Li,  Lei Yu,  Hong Gao,  Shuguang Xiong
 citation: ' Jianzhong Li,  Lei Yu,  Hong Gao,  Shuguang Xiong, &quot;Grouping-Enhanced Resilient Probabilistic En-Route Filtering of Injected False Data in WSNs.&quot; IEEE Transactions on Parallel and Distributed Systems, 2012.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Grouping+Enhanced+Resilient+Probabilistic+En+Route+Filtering+of+Injected+False+Data+in+WSNs){:target="_blank"} for full citation

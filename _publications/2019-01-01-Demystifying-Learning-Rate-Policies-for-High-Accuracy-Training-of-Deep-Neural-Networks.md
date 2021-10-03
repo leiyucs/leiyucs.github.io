@@ -8,4 +8,3 @@ venue: 'In the proceedings of 2019 IEEE International Conference on Big Data (Bi
 authors:  Yanzhao Wu,  Ling Liu,  Juhyun Bae,  Ka-Ho Chow,  Arun Iyengar,  Calton Pu,  Wenqi Wei,  Lei Yu,  Qi Zhang
 citation: ' Yanzhao Wu,  Ling Liu,  Juhyun Bae,  Ka-Ho Chow,  Arun Iyengar,  Calton Pu,  Wenqi Wei,  Lei Yu,  Qi Zhang, &quot;Demystifying Learning Rate Policies for High Accuracy Training of Deep Neural Networks.&quot; In the proceedings of 2019 IEEE International Conference on Big Data (Big Data), 2019.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Demystifying+Learning+Rate+Policies+for+High+Accuracy+Training+of+Deep+Neural+Networks){:target="_blank"} for full citation

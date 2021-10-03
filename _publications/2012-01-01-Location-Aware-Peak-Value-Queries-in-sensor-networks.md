@@ -8,4 +8,3 @@ venue: 'In the proceedings of 2012 Proceedings IEEE INFOCOM'
 authors:  Siyao Cheng,  Jianzhong Li,  Lei Yu
 citation: ' Siyao Cheng,  Jianzhong Li,  Lei Yu, &quot;Location Aware Peak Value Queries in sensor networks.&quot; In the proceedings of 2012 Proceedings IEEE INFOCOM, 2012.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Location+Aware+Peak+Value+Queries+in+sensor+networks){:target="_blank"} for full citation

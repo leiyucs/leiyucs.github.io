@@ -8,4 +8,3 @@ venue: 'Journal of Software'
 authors:  Lei Yu,  Jian-Zhong Li,  Jizhou Luo
 citation: ' Lei Yu,  Jian-Zhong Li,  Jizhou Luo, &quot;Distributed Secure Clustering Protocol in Wireless Sensor Networks.&quot; Journal of Software, 2009.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Distributed+Secure+Clustering+Protocol+in+Wireless+Sensor+Networks){:target="_blank"} for full citation

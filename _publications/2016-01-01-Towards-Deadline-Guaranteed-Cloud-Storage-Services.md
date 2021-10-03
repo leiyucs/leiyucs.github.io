@@ -8,4 +8,3 @@ venue: 'In the proceedings of 2016 IEEE 9th International Conference on Cloud Co
 authors:  Guoxin Liu,  Haiying Shen,  Lei Yu
 citation: ' Guoxin Liu,  Haiying Shen,  Lei Yu, &quot;Towards Deadline Guaranteed Cloud Storage Services.&quot; In the proceedings of 2016 IEEE 9th International Conference on Cloud Computing (CLOUD), 2016.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Towards+Deadline+Guaranteed+Cloud+Storage+Services){:target="_blank"} for full citation

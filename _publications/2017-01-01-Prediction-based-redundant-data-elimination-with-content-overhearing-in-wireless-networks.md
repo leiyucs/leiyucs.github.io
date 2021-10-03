@@ -8,4 +8,3 @@ venue: 'In the proceedings of 2017 IEEE International Conference on Pervasive Co
 authors:  Haiying Shen,  Shenghua He,  Lei Yu,  Ankur Sarker
 citation: ' Haiying Shen,  Shenghua He,  Lei Yu,  Ankur Sarker, &quot;Prediction-based redundant data elimination with content overhearing in wireless networks.&quot; In the proceedings of 2017 IEEE International Conference on Pervasive Computing and Communications (PerCom), 2017.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Prediction+based+redundant+data+elimination+with+content+overhearing+in+wireless+networks){:target="_blank"} for full citation

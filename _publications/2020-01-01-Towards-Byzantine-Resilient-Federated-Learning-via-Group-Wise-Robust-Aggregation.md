@@ -8,4 +8,3 @@ venue: 'In the proceedings of Federated Learning'
 authors:  Lei Yu,  Lingfei Wu
 citation: ' Lei Yu,  Lingfei Wu, &quot;Towards Byzantine-Resilient Federated Learning via Group-Wise Robust Aggregation.&quot; In the proceedings of Federated Learning, 2020.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Towards+Byzantine+Resilient+Federated+Learning+via+Group+Wise+Robust+Aggregation){:target="_blank"} for full citation

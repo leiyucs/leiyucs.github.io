@@ -8,4 +8,3 @@ venue: 'IEEE Transactions on Parallel and Distributed Systems'
 authors:  Lei Yu,  Haiying Shen,  Zhipeng Cai,  Ling Liu,  Calton Pu
 citation: ' Lei Yu,  Haiying Shen,  Zhipeng Cai,  Ling Liu,  Calton Pu, &quot;Towards Bandwidth Guarantee for Virtual Clusters Under Demand Uncertainty in Multi-Tenant Clouds.&quot; IEEE Transactions on Parallel and Distributed Systems, 2018.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Towards+Bandwidth+Guarantee+for+Virtual+Clusters+Under+Demand+Uncertainty+in+Multi+Tenant+Clouds){:target="_blank"} for full citation

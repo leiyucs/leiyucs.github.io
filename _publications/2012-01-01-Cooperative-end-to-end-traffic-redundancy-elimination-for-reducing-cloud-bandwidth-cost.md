@@ -8,4 +8,3 @@ venue: 'In the proceedings of 2012 20th IEEE International Conference on Network
 authors:  Lei Yu,  Karan Sapra,  Haiying Shen,  Lin Ye
 citation: ' Lei Yu,  Karan Sapra,  Haiying Shen,  Lin Ye, &quot;Cooperative end-to-end traffic redundancy elimination for reducing cloud bandwidth cost.&quot; In the proceedings of 2012 20th IEEE International Conference on Network Protocols (ICNP), 2012.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Cooperative+end+to+end+traffic+redundancy+elimination+for+reducing+cloud+bandwidth+cost){:target="_blank"} for full citation

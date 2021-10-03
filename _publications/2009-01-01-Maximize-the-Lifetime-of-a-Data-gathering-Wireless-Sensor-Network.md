@@ -8,4 +8,3 @@ venue: 'In the proceedings of 2009 6th Annual IEEE Communications Society Confer
 authors:  Shuguang Xiong,  Jianzhong Li,  Lei Yu
 citation: ' Shuguang Xiong,  Jianzhong Li,  Lei Yu, &quot;Maximize the Lifetime of a Data-gathering Wireless Sensor Network.&quot; In the proceedings of 2009 6th Annual IEEE Communications Society Conference on Sensor, Mesh and Ad Hoc Communications and Networks, 2009.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Maximize+the+Lifetime+of+a+Data+gathering+Wireless+Sensor+Network){:target="_blank"} for full citation

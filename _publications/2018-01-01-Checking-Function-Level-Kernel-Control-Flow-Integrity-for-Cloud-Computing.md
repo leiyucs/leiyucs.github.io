@@ -8,4 +8,3 @@ venue: 'IEEE Access'
 authors:  Lin Ye,  Xiangzhan Yu,  Lei Yu,  Bin Guo,  Dongyang Zhan,  Xiaojiang Du,  Mohsen Guizani
 citation: ' Lin Ye,  Xiangzhan Yu,  Lei Yu,  Bin Guo,  Dongyang Zhan,  Xiaojiang Du,  Mohsen Guizani, &quot;Checking Function-Level Kernel Control Flow Integrity for Cloud Computing.&quot; IEEE Access, 2018.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Checking+Function+Level+Kernel+Control+Flow+Integrity+for+Cloud+Computing){:target="_blank"} for full citation

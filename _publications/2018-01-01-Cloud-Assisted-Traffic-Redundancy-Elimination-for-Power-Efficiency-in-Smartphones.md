@@ -8,4 +8,3 @@ venue: 'In the proceedings of 2018 IEEE 15th International Conference on Mobile 
 authors:  Shenghua He,  Haiying Shen,  Vivekgautham Soundararaj,  Lei Yu
 citation: ' Shenghua He,  Haiying Shen,  Vivekgautham Soundararaj,  Lei Yu, &quot;Cloud Assisted Traffic Redundancy Elimination for Power Efficiency in Smartphones.&quot; In the proceedings of 2018 IEEE 15th International Conference on Mobile Ad Hoc and Sensor Systems (MASS), 2018.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Cloud+Assisted+Traffic+Redundancy+Elimination+for+Power+Efficiency+in+Smartphones){:target="_blank"} for full citation

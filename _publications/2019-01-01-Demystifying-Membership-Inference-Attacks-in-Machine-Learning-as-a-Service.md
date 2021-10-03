@@ -8,4 +8,3 @@ venue: 'IEEE Transactions on Services Computing'
 authors:  Stacey Truex,  Ling Liu,  Mehmet Gursoy,  Lei Yu,  Wenqi Wei
 citation: ' Stacey Truex,  Ling Liu,  Mehmet Gursoy,  Lei Yu,  Wenqi Wei, &quot;Demystifying Membership Inference Attacks in Machine Learning as a Service.&quot; IEEE Transactions on Services Computing, 2019.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Demystifying+Membership+Inference+Attacks+in+Machine+Learning+as+a+Service){:target="_blank"} for full citation

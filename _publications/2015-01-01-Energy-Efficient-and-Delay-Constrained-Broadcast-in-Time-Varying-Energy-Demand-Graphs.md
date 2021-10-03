@@ -8,4 +8,3 @@ venue: 'In the proceedings of 2015 44th International Conference on Parallel Pro
 authors:  Chenxi Qiu,  Haiying Shen,  Lei Yu
 citation: ' Chenxi Qiu,  Haiying Shen,  Lei Yu, &quot;Energy-Efficient and Delay-Constrained Broadcast in Time-Varying Energy-Demand Graphs.&quot; In the proceedings of 2015 44th International Conference on Parallel Processing, 2015.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Energy+Efficient+and+Delay+Constrained+Broadcast+in+Time+Varying+Energy+Demand+Graphs){:target="_blank"} for full citation

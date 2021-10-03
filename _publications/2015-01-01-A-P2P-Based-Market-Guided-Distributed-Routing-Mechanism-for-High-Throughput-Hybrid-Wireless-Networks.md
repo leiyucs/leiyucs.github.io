@@ -8,4 +8,3 @@ venue: 'IEEE Transactions on Mobile Computing'
 authors:  Haiying Shen,  Ze Li,  Lei Yu
 citation: ' Haiying Shen,  Ze Li,  Lei Yu, &quot;A P2P-Based Market-Guided Distributed Routing Mechanism for High-Throughput Hybrid Wireless Networks.&quot; IEEE Transactions on Mobile Computing, 2015.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=A+P2P+Based+Market+Guided+Distributed+Routing+Mechanism+for+High+Throughput+Hybrid+Wireless+Networks){:target="_blank"} for full citation

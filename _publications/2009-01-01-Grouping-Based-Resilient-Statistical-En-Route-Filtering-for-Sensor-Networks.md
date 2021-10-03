@@ -8,4 +8,3 @@ venue: 'In the proceedings of IEEE INFOCOM 2009'
 authors:  Lei Yu,  Jianzhong Li
 citation: ' Lei Yu,  Jianzhong Li, &quot;Grouping-Based Resilient Statistical En-Route Filtering for Sensor Networks.&quot; In the proceedings of IEEE INFOCOM 2009, 2009.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Grouping+Based+Resilient+Statistical+En+Route+Filtering+for+Sensor+Networks){:target="_blank"} for full citation

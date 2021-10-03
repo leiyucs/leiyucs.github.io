@@ -8,4 +8,3 @@ venue: 'In the proceedings of 2017 IEEE International Congress on Big Data (BigD
 authors:  Stacey Truex,  Ling Liu,  Mehmet Gursoy,  Lei Yu
 citation: ' Stacey Truex,  Ling Liu,  Mehmet Gursoy,  Lei Yu, &quot;Privacy-Preserving Inductive Learning with Decision Trees.&quot; In the proceedings of 2017 IEEE International Congress on Big Data (BigData Congress), 2017.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Privacy+Preserving+Inductive+Learning+with+Decision+Trees){:target="_blank"} for full citation
