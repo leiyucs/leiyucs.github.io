@@ -13,7 +13,7 @@ name                     : &name "Lei Yu"
 description              : &description ""
 url                      : https://yuleihit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yuleihit.github.io"
+repository               : "yuleihit/yuleihit.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -85,9 +85,9 @@ author:
   bio              : "Research Staff Member in IBM Research, IBM Thomas J Watson Research Center"
   location         : "Yorktown Heights, NY"
   employer         :
-#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+# pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=zI4I51UAAAAJ&hl=en"
-  email            :
+  email            : Lei.Yu1@ibm.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _patents
   - scope:
       path: ""
-      type: portfolio
+      type: patents
     values:
       layout: single
       author_profile: true
