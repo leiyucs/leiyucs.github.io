@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Lei Yu &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp"
+title                    : "Lei Yu's Homepage"
 title_separator          : "-"
 name                     : &name "Lei Yu"
-description              : &description "Lei Yu's personal webpage"
+description              : &description "Lei Yu's Homepage"
 url                      : https://yuleihit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuleihit/yuleihit.github.io"
