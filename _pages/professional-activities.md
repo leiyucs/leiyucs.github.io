@@ -14,7 +14,7 @@ toc_max_header: 1
 * Reconciling Data Privacy and Utility in the Era of Big Data, Department of Computer Science, University of Georgia, Mar 2020
 
 # Organizing Committee Member
-* Social Media Chair, The 6th ACM/IEEE Conference on Internet of Things Design and Imple-mentation (IoTDI 2021)
+* Social Media Chair, The 6th ACM/IEEE Conference on Internet of Things Design and Implementation (IoTDI 2021)
 * Workshop chair, The First International Workshop on Machine Learning Security and Privacy:Experiences and Applications (WISECML2019)
 * Publication chair, the 26th International Conference on Computer Communications and Net-works (ICCCN 2017)
 
