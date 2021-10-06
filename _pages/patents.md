@@ -53,3 +53,5 @@ author_profile: true
 1. **Method and system of machine learning data pre-processing in SQL databases**, P201910412, 2019 (Filed)
 
 1. **Method and apparatus to enhance blockchain confidentiality with differential privacy**, P201909037, 2019 (Filed)	
+
+1. **Method and Apparatus of Problem Diagnosis and Failure Prevention based on Log Data Analysis**, P201805974, 2018 (Filed)
