@@ -6,5 +6,6 @@ pubtype: conference
 date: 2019-01-01
 venue: 'In the proceedings of 2019 IEEE Symposium on Security and Privacy (SP)'
 authors:  Lei Yu,  Ling Liu,  Calton Pu,  Mehmet Gursoy,  Stacey Truex
+paperurl: 'https://arxiv.org/abs/1904.02200'
 citation: ' Lei Yu,  Ling Liu,  Calton Pu,  Mehmet Gursoy,  Stacey Truex, &quot;Differentially Private Model Publishing for Deep Learning.&quot; In the proceedings of 2019 IEEE Symposium on Security and Privacy (SP), 2019.'
 ---
