@@ -8,7 +8,8 @@ toc_max_header: 1
 ---
 {% include toc h_min = 1%}
 <br />
-# Recent Invited Talks
+
+# Recent Talks
 * Anomaly Detection from System Log Messages, NSF REU Site in Big Data Security and Privacy, Invited Speaker Series, Cal Poly Pomona, 2021
 * Reconciling Data Privacy and Utility in the Era of Big Data, Department of Computer Science and Engineering, Pennsylvania State University, Feb 2020
 * Reconciling Data Privacy and Utility in the Era of Big Data, Department of Computer Science, University of Georgia, Mar 2020
