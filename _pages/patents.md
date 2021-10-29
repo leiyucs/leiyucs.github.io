@@ -4,7 +4,7 @@ title: "Patents"
 permalink: /patents/
 author_profile: true
 ---
-1. **Detect and handling of Sensitive Information from data using document**, P202101279, 2021 (Filed)
+1. **Detecting and Handling of Sensitive Information from Data Using Document**, P202101279, 2021 (Filed)
 
 1. **Method and Apparatus of Log Parsing using Template Mining with Document Knowledge**, P202101278, 2021 (Filed)
 
