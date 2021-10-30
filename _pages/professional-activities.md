@@ -17,7 +17,7 @@ toc_max_header: 1
 # Organizing Committee Member
 * Social Media Chair, The 6th ACM/IEEE Conference on Internet of Things Design and Implementation (IoTDI 2021)
 * Workshop chair, The First International Workshop on Machine Learning Security and Privacy:Experiences and Applications (WISECML2019)
-* Publication chair, the 26th International Conference on Computer Communications and Net-works (ICCCN 2017)
+* Publication chair, the 26th International Conference on Computer Communications and Networks (ICCCN 2017)
 
 # TPC Member
 * IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (TPS) 2021, 2020 
