@@ -20,8 +20,8 @@ toc_max_header: 1
 * Publication chair, the 26th International Conference on Computer Communications and Networks (ICCCN 2017)
 
 # TPC Member
+* IEEE International Conference on Distributed Computing Systems (ICDCS), 2022, 2021, 2019 
 * IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (TPS) 2021, 2020 
-* IEEE International Conference on Distributed Computing Systems (ICDCS), 2021, 2019 
 * The 27th International Conference on Computer Communications and Networks (ICCCN 2018) 
 * The third International Conference of Pioneering Computer Scientists, Engineers and Educators (ICPCSEE 2017)
 * The first IEEE International Conference on Data Science in Cyberspace (IEEE DSC 2016)
