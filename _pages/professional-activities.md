@@ -58,6 +58,6 @@ toc_max_header: 1
 * Elsevier Computer Networks
 * International Journal of Distributed Sensor Networks
 
-# Teaching
+<!-- # Teaching
 * Real-Time Embedded Systems (CS4220/6235) Fall 2016, 2017 (Teaching Assistant)
-* Introduction to Enterprise Computing (CS4365/6365)Spring 2018 (Teaching Assistant)
+* Introduction to Enterprise Computing (CS4365/6365)Spring 2018 (Teaching Assistant) -->
