@@ -16,7 +16,7 @@ My recent research interests focus on data privacy and machine learning security
 In IBM Research I have been working on system anomaly detection, log analytics, system data privacy identification and protection, and machine learning system optimization for enterprise systems. My past research involved network security, wireless sensor network and cloud computing.
 
 ## News
-* Dec 2021, Its a great honor to receive 2021 IBM Research Accomplishment award (for contributions to zAI software).
+* Dec 2021, it is a great honor to receive 2021 IBM Research Accomplishment award (for contributions to zAI software).
 * Nov 2021, program committee member of ICDCS 2022, research track of Security, Privacy, and Trust in Distributed Systems.
 * Oct 19 2021, our summer intern Kai Li's paper ''DRL-Clusters: Buffer Management with Clustering based Deep Reinforcement Learning''
  is accepted by NeurIPS 2021 Workshop on Databases and AI. Congratulations to Kai!
