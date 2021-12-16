@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Lei Yu, a Research Staff Member in IBM Research at [IBM Thomas J. Watson Research Center](https://research.ibm.com/labs/watson/). My research interests include data privacy, big data analytics & systems, the security and privacy of machine learning, large-scale machine learning systems, and cloud and mobile computing. I received my Ph.D. on the topic of big data privacy and deep learning with differential privacy from the School of Computer Science at [Georgia Institute of Technology](https://www.gatech.edu/).
+Hi! I’m Lei Yu, a Research Staff Member in IBM Research at [IBM Thomas J. Watson Research Center](https://research.ibm.com/labs/watson/). My research interests include security and privacy, big data analytics & distributed systems, the security and privacy of machine learning, and cloud and mobile computing. I received my Ph.D. on the topic of big data privacy and deep learning with differential privacy from the School of Computer Science at [Georgia Institute of Technology](https://www.gatech.edu/).
 
 ## My work and research
 My recent research interests focus on data privacy, machine learning security and AI techniques for system security. My research on data privacy targets at identifying privacy threats and risks during different phases of data life-cycle and the issues of existing privacy protection designs, and developing principled privacy-preserving algorithmic and systematic solutions. The goal is to effectively protect data privacy and ensure regulatory compliance while preserving data utility.
