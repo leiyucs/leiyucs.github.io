@@ -37,6 +37,7 @@ toc_max_header: 1
 
 # Technical Reviewer
 * IEEE Transactions on Knowledge and Data Engineering (TKDE)
+* IEEE Transactions on Information Forensics & Security (TIFS)
 * IEEE Transactions on Dependable and Secure Computing (TDSC)
 * IEEE/ACM Transactions on Computational Biology and Bioinformatics
 * IEEE Computer Magazine, 2019
