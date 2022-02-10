@@ -20,7 +20,6 @@ In IBM Research I have been working on large-scale log based system anomaly dete
 * Nov 2021, program committee member of ICDCS 2022, research track of Security, Privacy, and Trust in Distributed Systems.
 * Oct 19 2021, our summer intern Kai Li's paper ''DRL-Clusters: Buffer Management with Clustering based Deep Reinforcement Learning''
  is accepted by NeurIPS 2021 Workshop on Databases and AI. Congratulations to Kai!
-* Oct 2021,  Sixth Invention Plateau in IBM Research achieived! 
 * Dec 13 2020, we have been selected to receive the George N. Saridis Best Transactions Paper Award, for our paper titled, “A Review of Communication, Driver Characteristics, and Controls Aspects of Cooperative Adaptive Cruise Control (CACC)”, which was published in the IEEE Transactions on Intelligent Transportation Systems. The news can be found at [https://ieeexplore.ieee.org/document/9272520](https://ieeexplore.ieee.org/document/9272520).
 * Nov 26 2020, Our paper "Towards Byzantine-Resilient Federated Learning via Group-Wise Robust Aggregation" is published in Federated Learning: Privacy and Incentive, Lecture Notes in Computer Science, Springer.
 * July 2019, I joined IBM Research (IBM Thomas J Watson Research Center) as a research staff member! My page in IBM [here](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Lei.Yu1)

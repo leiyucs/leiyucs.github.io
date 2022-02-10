@@ -14,13 +14,14 @@ toc_max_header: 1
 * Reconciling Data Privacy and Utility in the Era of Big Data, Department of Computer Science and Engineering, Pennsylvania State University, Feb 2020
 * Reconciling Data Privacy and Utility in the Era of Big Data, Department of Computer Science, University of Georgia, Mar 2020
 
-# Committee Member
+# Conference Chair, Guest Editor, etc
 * IBM Invention Development Team (IDT) in Blockchain
+* GUest Editor of special issue "Data Trading in Intelligent Internet of Things" in Journal of Wilress Communications and Mobile Computing
 * Social Media Chair, The 6th ACM/IEEE Conference on Internet of Things Design and Implementation (IoTDI 2021)
 * Workshop chair, The First International Workshop on Machine Learning Security and Privacy:Experiences and Applications (WISECML2019)
 * Publication chair, the 26th International Conference on Computer Communications and Networks (ICCCN 2017)
 
-# TPC Member
+# Conference TPC Member
 * IEEE International Conference on Distributed Computing Systems (ICDCS), 2022, 2021, 2019 
 * IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (TPS) 2021, 2020 
 * The 27th International Conference on Computer Communications and Networks (ICCCN 2018) 
