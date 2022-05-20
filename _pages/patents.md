@@ -22,8 +22,6 @@ author_profile: true
 
 1. **Method and System for Message Correlation and Relationship Extraction for Mainframe IT Operation**, P202005901, 2020 (Filed)	
 
-1. **Method and System for Message-based Problem Diagnose and Root Cause Analysis for Mainframe IT Operation**, P202005900, 2020 (Filed)	
-
 1. **Method and System of knowledge management for Integrating Documentation with Log Analysis for System Problem Diagnosis**, P202005899, 2020 (Filed)	
 
 1. **System and Method for Visual Question Generation with Answer-awareness and Region-reference**, P202007038, 2020 (Filed)	
@@ -48,10 +46,12 @@ author_profile: true
 
 1. **Method and apparatus to parallel large blockchain transactions for better execution efficiency**, P202001385, 2020 (Filed)
 
-1. **Method and system to streamline data preprocessing optimizations for machine learning workloads**, P201910741, 2019 (Filed)
+1. YL Chan, JQ Li, L Yang, T Wu, L Yu, H Min, FJ Meng **Message-based problem diagnosis and root cause analysis**, US Patent 11,243,835	
 
-1. **Method and system of machine learning data pre-processing in SQL databases**, P201910412, 2019 (Filed)
+1. Q Zhang, P Novotny, H Min, R Nair, S Ramji, L Yu, T Nakaike, M Kawahito **Streamlining data processing optimizations for machine learning workloads**, US Patent App. 16/890,091	
 
-1. **Method and apparatus to enhance blockchain confidentiality with differential privacy**, P201909037, 2019 (Filed)	
+1. P Novotny, Q Zhang, L Yu, H Min **Method and system for performing data pre-processing operations during data preparation of a machine learning lifecycle**, US Patent App. 16/903,872
 
-1. **Method and Apparatus of Problem Diagnosis and Failure Prevention based on Log Data Analysis**, P201805974, 2018 (Filed)
+1. Q Zhang, P Novotny, L Yu, **Noisy transaction for protection of data**, US Patent App. 16/837,386	
+
+1. YL Chan, L Yu, Q Zhang, H Min, S Ortega, M Hogstrom, BA Fisher **Identifying a problem based on log data analysis**, US Patent App. 16/415,131	
