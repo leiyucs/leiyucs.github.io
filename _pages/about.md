@@ -22,7 +22,6 @@ In IBM Research I have been working on large-scale log based system anomaly dete
 * Oct 19 2021, our summer intern Kai Li's paper ''DRL-Clusters: Buffer Management with Clustering based Deep Reinforcement Learning''
  is accepted by NeurIPS 2021 Workshop on Databases and AI. Congratulations to Kai!
 * Dec 13 2020, we have been selected to receive the George N. Saridis Best Transactions Paper Award, for our paper titled, “A Review of Communication, Driver Characteristics, and Controls Aspects of Cooperative Adaptive Cruise Control (CACC)”, which was published in the IEEE Transactions on Intelligent Transportation Systems. The news can be found at [https://ieeexplore.ieee.org/document/9272520](https://ieeexplore.ieee.org/document/9272520).
-* Nov 26 2020, Our paper "Towards Byzantine-Resilient Federated Learning via Group-Wise Robust Aggregation" is published in Federated Learning: Privacy and Incentive, Lecture Notes in Computer Science, Springer.
 
 
 
