@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 * IBM Outstanding Innovation Award
-* 2021 IBM Research Accomplishment - zAI Software
+* 2021 IBM Research Accomplishment -zAI Software
 * Seven IBM Invention Plateau awards, 2020-2022
 * Outstanding Service Award, the 6th ACM/IEEE Conference on Internet of Things Design and Implementation, May 18-21, 2021
 * George N. Saridis Best Transactions Paper Award, for our paper "A Review of Communication,Driver Characteristics, and Controls Aspects of Cooperative Adaptive Cruise Control (CACC)"published in the IEEE Transactions on Intelligent Transportation Systems, 2020
