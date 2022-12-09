@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Staff Research Scientist at IBM Research, [IBM Thomas J. Watson Research Center](https://research.ibm.com/labs/watson/). My research interests include security and privacy, big data analytics & distributed systems, the security and privacy of machine learning, and cloud and mobile computing. I received my Ph.D. on the topic of big data privacy and deep learning with differential privacy from the School of Computer Science at Georgia Institute of Technology.
+I will join the Department of Computer Science at [Rensselaer Polytechnic Institute](https://www.rpi.edu/) as a tenure-track assistant professor in Jan 2023. Currently I am a Staff Research Scientist at IBM Research, [IBM Thomas J. Watson Research Center](https://research.ibm.com/labs/watson/). My research interests include security and privacy, big data analytics & distributed systems, the security and privacy of machine learning, and cloud and mobile computing. I received my Ph.D. on the topic of big data privacy and deep learning with differential privacy from the School of Computer Science at Georgia Institute of Technology.
+
+**To prospective graduate students**: Multiple Ph.D students (RA) positions are available. I am looking for self-motivated students who have strong interests in data privacy/security, exploiting machine learning systems and Trustworthy AI, starting in Fall 2023/ Spring 2024. If you are interested, drop me an e-mail me with your CV and transcripts, and also please apply [here](https://admissions.rpi.edu/graduate/masters-and-phd-applicants) and mention my name in your application.
+
 
 ## My work and research
 My recent research interests focus on data privacy, machine learning security and AI techniques for system security. My research on data privacy targets at identifying privacy threats and risks during different phases of data life-cycle and the issues of existing privacy protection designs, and developing principled privacy-preserving algorithmic and systematic solutions. The goal is to effectively protect data privacy and ensure regulatory compliance while preserving data utility.
