@@ -19,16 +19,12 @@ My recent research interests focus on data privacy, machine learning security an
 In IBM Research I have been working on large-scale log based system anomaly detection, AI-Ops, system data privacy identification and protection, and machine learning system optimization. My past research involved network security, wireless sensor networks, cloud computing, and algorithmic solutions for improving the performance of distributed systems.
 
 ## News
+* Dec 2022, humbled to receive 2022 IBM Research Outsanding Accomplishment award for the contribution to Z AI System Software and Hardware.
 * May 2022, our paper "Serving Deep Learning Models with Deduplication from Relational Databases" was accepted by VLDB 2022. Congratulations and many thanks to our collaborators Lixi, Prof. Jia Zou in ASU and all other co-authors.
 * Dec 2021, it is a great honor to receive 2021 IBM Research Accomplishment award (for contributions to zAI software).
 * Nov 2021, program committee member of ICDCS 2022, research track of Security, Privacy, and Trust in Distributed Systems.
 * Oct 19 2021, our summer intern Kai Li's paper ''DRL-Clusters: Buffer Management with Clustering based Deep Reinforcement Learning''
  is accepted by NeurIPS 2021 Workshop on Databases and AI. Congratulations to Kai!
-* Dec 13 2020, we have been selected to receive the George N. Saridis Best Transactions Paper Award, for our paper titled, “A Review of Communication, Driver Characteristics, and Controls Aspects of Cooperative Adaptive Cruise Control (CACC)”, which was published in the IEEE Transactions on Intelligent Transportation Systems. The news can be found at [https://ieeexplore.ieee.org/document/9272520](https://ieeexplore.ieee.org/document/9272520).
-
-
-
-
  
 
  

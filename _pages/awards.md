@@ -4,6 +4,7 @@ title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
+* 2022 IBM Research Outstanding Accomplishment - Z AI System Software and Hardware
 * IBM Outstanding Innovation Award
 * 2021 IBM Research Accomplishment -zAI Software
 * Seven IBM Invention Plateau awards, 2020-2022
