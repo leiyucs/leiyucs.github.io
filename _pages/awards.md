@@ -13,7 +13,3 @@ author_profile: true
 * George N. Saridis Best Transactions Paper Award, for our paper "A Review of Communication,Driver Characteristics, and Controls Aspects of Cooperative Adaptive Cruise Control (CACC)"published in the IEEE Transactions on Intelligent Transportation Systems, 2020
 * Service award of the 16th IEEE International Conference on Mobile Ad-Hoc and Smart Systems (IEEE MASS 2019)
 * NSF Student Travel Grant, IEEE INFOCOM, 2016, IEEE SECON, 2015.
-<!-- * Outstanding contribution award in Massive Data Computing Center, 2008, 2009 and 2010.
-*  Merit student, 2009
-* Outstanding graduate student, 2004.
-* “Haiwang” Grand Scholarship, 2003; People scholarships, 2000-2004. -->
