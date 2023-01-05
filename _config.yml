@@ -84,7 +84,9 @@ analytics:
 author:
   name             : "Lei Yu"
   avatar           : "profile.png"
-  bio              : "Assistant Professor, Department of Computer Science, Rensselaer Polytechnic Institute"
+  bio              : "Assistant Professor
+                     Department of Computer Science
+                     Rensselaer Polytechnic Institute"
   location         : "Troy, NY"
   employer         :
 # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
