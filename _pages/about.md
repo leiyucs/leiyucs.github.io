@@ -16,7 +16,7 @@ Lei Yu is a Tenure-Track Assistant Professor in the Department of Computer Scien
 ## My work and research
 My recent research interests focus on data privacy, machine learning security and AI techniques for system security. My research on data privacy targets at identifying privacy threats and risks during different phases of data life-cycle and the issues of existing privacy protection designs, and developing principled privacy-preserving algorithmic and systematic solutions. The goal is to effectively protect data privacy and ensure regulatory compliance while preserving data utility.
 
-At IBM Research I have been working on large-scale log based system anomaly detection, AI-Ops, system data privacy identification and protection, and machine learning system optimization. My past research involved network security, wireless sensor networks, cloud computing, and algorithmic solutions for improving the performance of distributed systems.
+At IBM Research I have been working on large-scale log based system anomaly detection, AI-Ops, system data privacy identification and protection, and machine learning system optimization. My past research involved wireless sensor network and its security, cloud computing, and algorithmic solutions for improving the performance of distributed systems.
 
 ## News
 * Dec 2022, humbled to receive 2022 IBM Research Outstanding Accomplishment award for the contribution to Z AI System Software and Hardware.
