@@ -6,6 +6,9 @@ main:
   - title: "Patents"
     url: /patents/
 
+  - title: "Teaching"
+    url: /teaching/ 
+
   - title: "Professional Activities"
     url: /professional-activities/
 
@@ -14,8 +17,7 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  # - title: "Teaching"
-  #   url: /teaching/    
+   
     
   # - title: "Portfolio"
   #   url: /portfolio/

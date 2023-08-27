@@ -220,9 +220,10 @@ defaults:
       type: teaching
     values:
       layout: single
+      read_time: false
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
