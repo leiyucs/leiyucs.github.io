@@ -19,7 +19,7 @@ My recent research interests focus on data privacy, machine learning security an
 At IBM Research I worked on large-scale log based system anomaly detection, AI-Ops, system data privacy identification and protection, and machine learning system optimization. My past research involved wireless sensor network and its security, cloud computing, and algorithmic solutions for improving the performance of distributed systems.
 
  
-## Recent News
+## Recent News ([...](/news/))
 <div class="grid__wrapper">
   {% for post in site.news reversed limit: 10 %}
      {% include archive-single-news.html %}
