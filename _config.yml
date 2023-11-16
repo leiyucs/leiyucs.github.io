@@ -210,6 +210,16 @@ defaults:
       comments: true
       share: true
       related: true
+  # _news
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: ""
