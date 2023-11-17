@@ -28,7 +28,7 @@
   
   {% assign time = true %}
   {% if time %}
-  <li><time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B, %Y" }}</time>, {{ title }}</li>
+  <li><time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%b %Y" }}</time>, {{ title }}</li>
   {% else %}
   <li>{{ title }}</li>
   {% endif %}
