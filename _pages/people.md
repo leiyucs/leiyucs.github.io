@@ -8,6 +8,6 @@ author_profile: true
 * Master Students: Tyler Chan
 * Undergraduate researchers: Yuetian Chen, Zhiqi Wang, Elvis Sun, Jichuan Wu, Chengyu Zhang
 
-* Alumni
-    - Undergraduate: Peiyao Wang, Sidharth Eage
+* Lab Alumni
+    - Undergraduate researchers: Peiyao Wang, Sidharth Eage
 
