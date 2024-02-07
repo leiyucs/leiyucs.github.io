@@ -21,7 +21,7 @@ At IBM Research I worked on large-scale log based system anomaly detection, AI-O
  
 ## Recent News ([...](/news/))
 <div class="grid__wrapper">
-  {% for post in site.news reversed limit: 10 %}
+  {% for post in site.news reversed limit: 20 %}
      {% include archive-single-news.html %}
   {% endfor %}
 </div>
