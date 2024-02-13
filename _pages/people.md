@@ -10,5 +10,5 @@ author_profile: true
 
 * Lab Alumni
     - Undergraduate researchers: 
-        -2023: Peiyao Wang, Sidharth Eage
+        - 2023: Peiyao Wang, Sidharth Eage
 
