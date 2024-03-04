@@ -39,6 +39,7 @@ toc_max_header: 1
 * The International Workshop on Hot Topics on Wireless Network Security and Privacy (HotWiSec 2011)
 
 # Technical Reviewer
+* Information Sciences
 * IEEE Transactions on Knowledge and Data Engineering (TKDE)
 * IEEE Transactions on Information Forensics & Security (TIFS)
 * IEEE Transactions on Dependable and Secure Computing (TDSC)
