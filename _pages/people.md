@@ -10,6 +10,6 @@ author_profile: true
 
 * Lab Alumni
     - Undergraduate researchers:
-        - 2024: Yuetian Chen (->CS Ph.D at Purdue), Qianting Gao (->)
+        - 2024: Yuetian Chen (->CS Ph.D at Purdue), Qianting Gao
         - 2023: Peiyao Wang, Sidharth Eage
 
