@@ -10,6 +10,6 @@ author_profile: true
 
 * Lab Alumni
     - Undergraduate researchers:
-        - 2024: Yuetian Chen (->CS Ph.D at Purdue), Qianting Gao
-        - 2023: Peiyao Wang, Sidharth Eage
+        - 2024 BS: Yuetian Chen (&rarr CS Ph.D at Purdue), Qianting Gao (&rarr INI Master at CMU), Peiyao Wang
+        - 2023: Sidharth Eage
 
