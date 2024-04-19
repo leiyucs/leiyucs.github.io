@@ -7,7 +7,7 @@ toc: true
 ---
 
 {% if site.author.googlescholar %}
-  You can find my updated publication list on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
+  You may find my updated publication list on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include toc %}
