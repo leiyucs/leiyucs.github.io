@@ -10,4 +10,5 @@ author_profile: true
 
 * Lab Alumni
     - Undergraduate researchers:
-        - 2024 BS: Yuetian Chen (=>CS Ph.D at Purdue), Qianting Gao (=>INI Master at CMU), Peiyao Wang(=>CS Master at Northeastern)
+        - 2024 BS: Qianting Gao (=>INI Master at CMU), Peiyao Wang(=>CS Master at Northeastern)
+        - 2023 BS: Yuetian Chen (=>CS Ph.D at Purdue)
