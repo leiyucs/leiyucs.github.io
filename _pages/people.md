@@ -6,7 +6,7 @@ author_profile: true
 ---
 * Ph.D students: Yuxuan Zhu, Zhexi Lu
 * Master Students: Tyler Chan, Aaron Zachariah
-* Undergraduate researchers: Zhiqi Wang, Elvis Sun, Jichuan Wu, Chengyu Zhang, Jing Qun Cui, Kerui Wu
+* Undergraduate researchers: Zhiqi Wang, Elvis Sun, Jichuan Wu, Chengyu Zhang, Kerui Wu
 
 * Lab Alumni
     - Undergraduate researchers:
