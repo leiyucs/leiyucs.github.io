@@ -6,7 +6,7 @@ author_profile: true
 ---
 * 2022 IBM Research Outstanding Accomplishment - Z AI System Software and Hardware
 * IBM Outstanding Innovation Award
-* 2021 IBM Research Accomplishment - zAI Software
+* 2021 IBM Research Accomplishment - Z AI Software
 * Two High Value Patent Applications - NOISY TRANSACTION FOR PROTECTION OF DATA, STREAMLINING DATA PROCESSING OPTIMIZATIONS FOR MACHINE LEARNING WORKLOADS
 * Seven IBM Invention Plateau awards, 2020-2022
 * Outstanding Service Award, the 6th ACM/IEEE Conference on Internet of Things Design and Implementation, May 18-21, 2021
