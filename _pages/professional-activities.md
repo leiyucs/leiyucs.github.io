@@ -3,7 +3,7 @@ layout: archive
 title: "Professional Activities"
 permalink: /professional-activities/
 author_profile: true
-toc: true
+toc: false
 toc_max_header: 1
 ---
 {% include toc h_min = 1%}
