@@ -9,11 +9,11 @@ toc_max_header: 1
 {% include toc h_min = 1%}
 <br />
 
-# Recent Talks
+<!-- # Recent Talks
 * Reconciling Privacy and Utility for Big Data Applications, Computer Science Colloquia & Seminars, Rensselaer Polytechnic Institute, Apr 2022 
 * Anomaly Detection from System Log Messages, NSF REU Site in Big Data Security and Privacy, Invited Speaker Series, Cal Poly Pomona, 2021
 * Reconciling Data Privacy and Utility in the Era of Big Data, Department of Computer Science and Engineering, Pennsylvania State University, Feb 2020
-* Reconciling Data Privacy and Utility in the Era of Big Data, Department of Computer Science, University of Georgia, Mar 2020
+* Reconciling Data Privacy and Utility in the Era of Big Data, Department of Computer Science, University of Georgia, Mar 2020 -->
 
 # Conference Chair, Guest Editor, etc
 * IBM Invention Development Team (IDT) in Blockchain
