@@ -6,8 +6,8 @@ author_profile: true
 # toc: false
 # toc_max_header: 1
 ---
-{% include toc h_min = 1%}
-<br />
+<!-- {% include toc h_min = 1%}
+<br /> -->
 
 <!-- # Recent Talks
 * Reconciling Privacy and Utility for Big Data Applications, Computer Science Colloquia & Seminars, Rensselaer Polytechnic Institute, Apr 2022 
