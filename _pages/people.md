@@ -4,7 +4,7 @@ title: "People"
 permalink: /people/
 author_profile: true
 ---
-* Ph.D students: Yuxuan Zhu, Zhexi Lu
+* Ph.D students: Zhexi Lu
 * Master Students: Tyler Chan, Aaron Zachariah
 * Undergraduate researchers: Zhiqi Wang, Elvis Sun, Jichuan Wu, Chengyu Zhang, Kerui Wu
 
