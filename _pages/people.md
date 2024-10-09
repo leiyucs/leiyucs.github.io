@@ -5,8 +5,8 @@ permalink: /people/
 author_profile: true
 ---
 * Ph.D students: Zhexi Lu
-* Master Students: Tyler Chan, Aaron Zachariah
-* Undergraduate researchers: Zhiqi Wang, Elvis Sun, Jichuan Wu, Chengyu Zhang, Kerui Wu
+* Master Students: Tyler Chan, Aaron Zachariah, Bhavya Chavali
+* Undergraduate researchers: Kirsten Szeto, Nico Wang, Justin Kim, Henry Ye, Yuqing Peng, Zhiqi Wang, Elvis Sun, Jichuan Wu, Chengyu Zhang, Kerui Wu
 
 * Lab Alumni
     - Undergraduate researchers:
