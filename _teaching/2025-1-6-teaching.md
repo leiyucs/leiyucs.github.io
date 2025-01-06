@@ -1,5 +1,5 @@
 ---
-title: "CSCI 4380 Database Systems - (Spring 2025, RPI)"
+title: "CSCI 4380 Database Systems - (2025 Spring, RPI)"
 collection: teaching
 teaching_type: "Course"
 permalink: /teaching/spring25database/
