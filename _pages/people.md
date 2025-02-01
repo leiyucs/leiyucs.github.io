@@ -5,7 +5,7 @@ permalink: /people/
 author_profile: true
 ---
 * Ph.D students: Zhexi Lu, Tyler Chan
-* Master Students: Aaron Zachariah, Bhavya Chavali
+* Master Students: Bhavya Chavali
 * Undergraduate researchers: Kirsten Szeto, Nico Wang, Henry Ye, Yuqing Peng, Elvis Sun
 
 * Lab Alumni
