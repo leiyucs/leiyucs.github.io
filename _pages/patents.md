@@ -4,15 +4,16 @@ title: "Patents"
 permalink: /patents/
 author_profile: true
 ---
+1. **Method and apparatus for Robust Federated Learning with dataset sketch commitment**, P202005236.	
+
 1. **Detecting and Handling of Sensitive Information from Data Using Document**, P202101279, 2021 (Filed)
+
 
 1. **Method and Apparatus of Log Parsing using Template Mining with Document Knowledge**, P202101278, 2021 (Filed)
 
 1. **Method and Apparatus to circumscribe and demarcate Digital (crypto) Assets by trading desks based on Risk modeled structures**, P202101052, 2021 (Filed)
 
 1. **Method for efficient apparatus of Blockchain transaction processing with use of generative cryptogram for bi-lateral and Multi-lateral transactions**, P202100602, 2021 (Filed)	
-
-1. **Method and apparatus for Robust Federated Learning with dataset sketch commitment**, P202005236, 2020 (Filed)	
 
 1. **Method and apparatus to evaluate contribution of participants in Federated Learning**, P202003698, 2020 (Filed)
 
