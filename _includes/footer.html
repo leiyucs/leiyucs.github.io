@@ -31,17 +31,3 @@ a#clustrmaps-widget-v2,
   </ul>
 </div>
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
-
-<script>
-  let lastUpdated = localStorage.getItem("bibbase_last_update");
-  let now = new Date().getTime();
-
-  if (!lastUpdated || now - lastUpdated > 86400000) { // Refresh every 24 hours
-    fetch("https://bibbase.org/show?bib=https://bibbase.org/f/gSr8DjLGW8y2y2snm/uploaded.bib&jsonp=1")
-      .then(response => response.text())
-      .then(data => {
-        localStorage.setItem("bibbase_cache", data);
-        localStorage.setItem("bibbase_last_update", now);
-      });
-  }
-</script>
