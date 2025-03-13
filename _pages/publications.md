@@ -16,6 +16,7 @@ toc: true
   <script id="bibbase-script" src="https://bibbase.org/show?bib=https://bibbase.org/f/gSr8DjLGW8y2y2snm/uploaded.bib&jsonp=1"></script>
 </div>
 
+<div>
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     let bibbaseContainer = document.getElementById("bibbase-container");
@@ -60,3 +61,4 @@ toc: true
     }
   });
 </script>
+</div>
