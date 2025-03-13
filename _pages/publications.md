@@ -12,8 +12,7 @@ toc: true
 <br>
 
 <div id="bibbase-container">
-    <p id="loading-message" style="font-size: 20px;">
-    Loading publication list...</p>
+    <p id="loading-message" style="font-size: 20px;">Loading publication list...</p>
   <script src="https://bibbase.org/show?bib=https://bibbase.org/f/gSr8DjLGW8y2y2snm/uploaded.bib&jsonp=1"></script>
 </div>
 
@@ -26,7 +25,7 @@ toc: true
   let observer = new MutationObserver(function(mutations) {
     mutations.forEach(function(mutation) {
       if (mutation.addedNodes.length > 0) {
-        // Remove "The script is loading..." once BibBase adds content
+        // Remove "Loading publication list..." once BibBase adds content
         if (loadingMessage) {
           loadingMessage.style.display = "none";
         }
