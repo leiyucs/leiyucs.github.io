@@ -21,13 +21,21 @@ toc: true
     let bibbaseContainer = document.getElementById("bibbase-container");
     let loadingMessage = document.getElementById("loading-message");
 
+    console.log("📢 MutationObserver script started.");
+
     if (bibbaseContainer) {
+      console.log("✅ Found #bibbase-container, setting up observer...");
+
       // Set up MutationObserver to watch for content changes
       let observer = new MutationObserver(function(mutations) {
         mutations.forEach(function(mutation) {
           mutation.addedNodes.forEach(node => {
+            console.log("🔍 Node added:", node);
+
             // Ensure the added node is not just a blank text node
             if (node.nodeType === 1 && node.innerHTML.trim().length > 0) {
+              console.log("🎉 BibBase content detected, hiding loading message!");
+
               if (loadingMessage) {
                 loadingMessage.style.display = "none"; // Hide loading message
               }
@@ -42,10 +50,13 @@ toc: true
 
       // Fallback: If no changes detected after 10 seconds, hide the message
       setTimeout(() => {
+        console.log("⚠️ Timeout reached, hiding loading message as a fallback.");
         if (loadingMessage) {
           loadingMessage.style.display = "none";
         }
       }, 10000);
+    } else {
+      console.error("❌ #bibbase-container not found!");
     }
   });
 </script>
