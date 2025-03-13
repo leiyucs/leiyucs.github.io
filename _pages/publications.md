@@ -13,26 +13,39 @@ toc: true
 
 <div id="bibbase-container">
     <p id="loading-message" style="font-size: 20px;">Loading publication list...</p>
-  <script src="https://bibbase.org/show?bib=https://bibbase.org/f/gSr8DjLGW8y2y2snm/uploaded.bib&jsonp=1"></script>
+  <script id="bibbase-script" src="https://bibbase.org/show?bib=https://bibbase.org/f/gSr8DjLGW8y2y2snm/uploaded.bib&jsonp=1"></script>
 </div>
 
 <script>
-  // Select the container where BibBase will insert content
-  let bibbaseContainer = document.getElementById("bibbase-container");
-  let loadingMessage = document.getElementById("loading-message");
+  document.addEventListener("DOMContentLoaded", function() {
+    let bibbaseContainer = document.getElementById("bibbase-container");
+    let loadingMessage = document.getElementById("loading-message");
 
-  // Use MutationObserver to detect when BibBase modifies the DOM
-  let observer = new MutationObserver(function(mutations) {
-    mutations.forEach(function(mutation) {
-      if (mutation.addedNodes.length > 0) {
-        // Remove "Loading publication list..." once BibBase adds content
+    if (bibbaseContainer) {
+      // Set up MutationObserver to watch for content changes
+      let observer = new MutationObserver(function(mutations) {
+        mutations.forEach(function(mutation) {
+          mutation.addedNodes.forEach(node => {
+            // Ensure the added node is not just a blank text node
+            if (node.nodeType === 1 && node.innerHTML.trim().length > 0) {
+              if (loadingMessage) {
+                loadingMessage.style.display = "none"; // Hide loading message
+              }
+              observer.disconnect(); // Stop observing after content appears
+            }
+          });
+        });
+      });
+
+      // Start observing the BibBase container for content changes
+      observer.observe(bibbaseContainer, { childList: true, subtree: true });
+
+      // Fallback: If no changes detected after 10 seconds, hide the message
+      setTimeout(() => {
         if (loadingMessage) {
           loadingMessage.style.display = "none";
         }
-        observer.disconnect(); // Stop observing once content is loaded
-      }
-    });
+      }, 10000);
+    }
   });
-  // Start observing for changes in the container
-  observer.observe(bibbaseContainer, { childList: true, subtree: true });
 </script>
