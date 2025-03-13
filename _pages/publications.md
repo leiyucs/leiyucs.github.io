@@ -11,8 +11,9 @@ toc: true
 {% endif %}
 <br>
 
+<p id="loading-message" style="display: inline-flex; font-size: 25px; font-style: italic; gap: 10px; min-width: 200px;  white-space: nowrap; visibility: visible !important;"> <span class="spinner"></span> Loading publication list...</p>
+
 <div id="bibbase-container">
-    <p id="loading-message" style="display: inline-flex; font-size: 25px; font-style: italic; gap: 10px; min-width: 200px;  white-space: nowrap; visibility: visible !important;"> <span class="spinner"></span> Loading publication list...</p>
   {% raw %}
   <script id="bibbase-script" src="https://bibbase.org/show?bib=https://bibbase.org/f/gSr8DjLGW8y2y2snm/uploaded.bib&jsonp=1"></script>
   {% endraw %}
