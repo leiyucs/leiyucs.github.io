@@ -12,29 +12,14 @@ toc: true
 <br>
 
 <!-- Move the loading message OUTSIDE the BibBase container -->
-<div id="loading-wrapper" style="text-align: center; margin-bottom: 10px;">
-    <p id="loading-message" style="
-        display: inline-flex;
-        font-size: 25px;
-        font-style: italic;
-        align-items: center;
-        gap: 10px;
-        min-width: 200px;
-        white-space: nowrap;">
-        <span class="spinner"></span> Loading publication list...
-    </p>
-</div>
-
+<p id="loading-message" style="display: inline-flex; font-size: 25px; font-style: italic; gap: 10px; min-width: 200px;  white-space: nowrap; color: #555; visibility: visible !important;">
+<img src="https://i.gifer.com/VAyR.gif" alt="Loading..." width="24" height="24"> 
+Loading publication list...
+</p>
 
 <div id="bibbase-container">
   {% raw %}
-  <!-- <script id="bibbase-script" src="https://bibbase.org/show?bib=https://bibbase.org/f/gSr8DjLGW8y2y2snm/uploaded.bib&jsonp=1"></script> -->
-  <script>
-  let bibbaseScript = document.createElement("script");
-  bibbaseScript.src = "https://bibbase.org/show?bib=https://bibbase.org/f/gSr8DjLGW8y2y2snm/uploaded.bib&jsonp=1";
-  bibbaseScript.defer = true; // Ensures script loads after the page
-  document.getElementById("bibbase-container").appendChild(bibbaseScript);
-  </script>
+  <script id="bibbase-script" src="https://bibbase.org/show?bib=https://bibbase.org/f/gSr8DjLGW8y2y2snm/uploaded.bib&jsonp=1"></script>
   {% endraw %}
 </div>
 <style>
