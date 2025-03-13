@@ -12,5 +12,17 @@ toc: true
 <br>
 
 <div id="bibbase-container">
-  <script src="https://bibbase.org/show?bib=https://bibbase.org/f/gSr8DjLGW8y2y2snm/uploaded.bib&jsonp=1"></script>
+  <!-- <script src="https://bibbase.org/show?bib=https://bibbase.org/f/gSr8DjLGW8y2y2snm/uploaded.bib&jsonp=1"></script> -->
+  <script>
+  document.addEventListener("DOMContentLoaded", function() {
+    let cachedBibBase = localStorage.getItem("bibbase_cache");
+    if (cachedBibBase) {
+      document.getElementById("bibbase-container").innerHTML = cachedBibBase;
+    } else {
+      let script = document.createElement("script");
+      script.src = "https://bibbase.org/show?bib=https://bibbase.org/f/gSr8DjLGW8y2y2snm/uploaded.bib&jsonp=1";
+      document.body.appendChild(script);
+    }
+  });
+</script>
 </div>
