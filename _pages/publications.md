@@ -12,10 +12,26 @@ toc: true
 <br>
 
 <div id="bibbase-container">
-    <p id="loading-message" style="font-size: 25px; font-style: italic;">🔄 Loading publication list...</p>
+    <p id="loading-message" style="display: flex; font-size: 25px; font-style: italic; gap: 10px;"> <span class="spinner"></span> Loading publication list...</p>
   {% raw %}
   <script id="bibbase-script" src="https://bibbase.org/show?bib=https://bibbase.org/f/gSr8DjLGW8y2y2snm/uploaded.bib&jsonp=1"></script>
   {% endraw %}
 </div>
-
+<style>
+    /* Define the spinning animation */
+    @keyframes spin {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+    }
+    /* Ensure the spinner is visible and properly styled */
+    .spinner {
+        width: 30px;
+        height: 30px;
+        border: 5px solid rgba(0, 0, 0, 0.2); /* Light gray border */
+        border-top: 3px solid #007bff; /* Blue top border for spinning effect */
+        border-radius: 50%;
+        display: inline-block;
+        animation: spin 1s linear infinite; /* Ensures continuous rotation */
+    }
+</style>
 <script src="/assets/js/bibbase.js"></script>
