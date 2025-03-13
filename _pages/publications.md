@@ -28,7 +28,13 @@ toc: true
 
 <div id="bibbase-container">
   {% raw %}
-  <script defer id="bibbase-script" src="https://bibbase.org/show?bib=https://bibbase.org/f/gSr8DjLGW8y2y2snm/uploaded.bib&jsonp=1"></script>
+  <!-- <script id="bibbase-script" src="https://bibbase.org/show?bib=https://bibbase.org/f/gSr8DjLGW8y2y2snm/uploaded.bib&jsonp=1"></script> -->
+  <script>
+  let bibbaseScript = document.createElement("script");
+  bibbaseScript.src = "https://bibbase.org/show?bib=https://bibbase.org/f/gSr8DjLGW8y2y2snm/uploaded.bib&jsonp=1";
+  bibbaseScript.defer = true; // Ensures script loads after the page
+  document.getElementById("bibbase-container").appendChild(bibbaseScript);
+  </script>
   {% endraw %}
 </div>
 <style>
