@@ -28,7 +28,7 @@ toc: true
 
 <div id="bibbase-container">
   {% raw %}
-  <script async id="bibbase-script" src="https://bibbase.org/show?bib=https://bibbase.org/f/gSr8DjLGW8y2y2snm/uploaded.bib&jsonp=1"></script>
+  <script defer id="bibbase-script" src="https://bibbase.org/show?bib=https://bibbase.org/f/gSr8DjLGW8y2y2snm/uploaded.bib&jsonp=1"></script>
   {% endraw %}
 </div>
 <style>
