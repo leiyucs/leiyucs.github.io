@@ -32,7 +32,7 @@ toc: true
           mutation.addedNodes.forEach(node => {
             console.log("🔍 Node added:", node);
 
-            // Ensure the added node is not just a blank text node
+            // Ensure the added node is an element and not empty
             if (node.nodeType === 1 && node.innerHTML.trim().length > 0) {
               console.log("🎉 BibBase content detected, hiding loading message!");
 
