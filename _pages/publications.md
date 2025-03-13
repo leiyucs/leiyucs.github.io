@@ -33,7 +33,6 @@ toc: true
       }
     });
   });
-
   // Start observing for changes in the container
   observer.observe(bibbaseContainer, { childList: true, subtree: true });
 </script>
