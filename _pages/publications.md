@@ -12,7 +12,8 @@ toc: true
 <br>
 
 <div id="bibbase-container">
-  <p id="loading-message">The script is loading...</p>
+    <p id="loading-message" style="font-size: 20px;">
+    Loading publication list...</p>
   <script src="https://bibbase.org/show?bib=https://bibbase.org/f/gSr8DjLGW8y2y2snm/uploaded.bib&jsonp=1"></script>
 </div>
 
