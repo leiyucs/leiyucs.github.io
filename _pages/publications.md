@@ -12,7 +12,7 @@ toc: true
 <br>
 
 <div id="bibbase-container">
-    <p id="loading-message" style="font-size: 20px;">Loading publication list...</p>
+    <p id="loading-message" style="font-size: 18px; font-style: italic;">🔄 Loading publication list...</p>
   {% raw %}
   <script id="bibbase-script" src="https://bibbase.org/show?bib=https://bibbase.org/f/gSr8DjLGW8y2y2snm/uploaded.bib&jsonp=1"></script>
   {% endraw %}
