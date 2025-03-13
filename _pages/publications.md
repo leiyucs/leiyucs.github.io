@@ -13,10 +13,12 @@ toc: true
 
 <div id="bibbase-container">
     <p id="loading-message" style="font-size: 20px;">Loading publication list...</p>
+  {% raw %}
   <script id="bibbase-script" src="https://bibbase.org/show?bib=https://bibbase.org/f/gSr8DjLGW8y2y2snm/uploaded.bib&jsonp=1"></script>
+  {% endraw %}
 </div>
 
-<div>
+{% raw %}
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     let bibbaseContainer = document.getElementById("bibbase-container");
@@ -61,4 +63,4 @@ toc: true
     }
   });
 </script>
-</div>
+{% endraw %}
