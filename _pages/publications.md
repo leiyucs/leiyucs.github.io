@@ -18,4 +18,4 @@ toc: true
   {% endraw %}
 </div>
 
-<script src="/assets/js/bibbase-loader.js"></script>
+<script src="/assets/js/bibbase.js"></script>
