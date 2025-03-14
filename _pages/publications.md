@@ -53,12 +53,6 @@ toc: true
         scrollbar-width: thin; /* For Firefox */
         scrollbar-color: #888 #f1f1f1; /* Thumb color and track color */
     }
-    /* Ensure iframe scales well on small screens */
-  @media (max-width: 768px) {
-    #publication-frame {
-        height: 90vh; /* Adjust height for small screens */
-    }
-  }
 </style>
 <div class="iframe-container">
 <iframe src="/assets/publication.html" frameborder="0" id="publication-frame"></iframe>
