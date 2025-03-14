@@ -7,7 +7,7 @@ toc: true
 ---
 {% if site.author.googlescholar %}
 <p style="font-size: 17px;">
-  You may find my updated publication list on <a style="text-decoration: underline" href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
+  You may find the updated publication list on <a style="text-decoration: underline" href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
 </p>
 {% endif %}
 <!-- view-source:https://www.cs.cmu.edu/~mmv/Veloso.html -->
