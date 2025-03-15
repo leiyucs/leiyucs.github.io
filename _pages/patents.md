@@ -25,7 +25,7 @@ author_profile: true
             font-size: 18px; /* Adjust title font size */
             }
             @media screen and (max-width: 768px) {
-            .bootstrap-scope html, body, span, h1 {
+            .bootstrap-scope html, body, span {
                 font-size: 14px; /* Adjust for tablets and small screens */
             }
             .bootstrap-scope .title {
@@ -33,7 +33,7 @@ author_profile: true
             }
             }
             @media screen and (max-width: 480px) {
-                .bootstrap-scope html, body, span, h1 {
+                .bootstrap-scope html, body, span {
                     font-size: 14px; /* Adjust for mobile phones */
                 }
                 .bootstrap-scope .title {
