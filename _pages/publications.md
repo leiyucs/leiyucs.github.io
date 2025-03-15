@@ -6,9 +6,26 @@ author_profile: true
 toc: true
 ---
 {% if site.author.googlescholar %}
-<p style="font-size: 17px;">
+<div class="pubmessage">
+    <style>
+        .pubmessage .msg {
+            font-size: 17px;
+        }
+            @media screen and (max-width: 768px) {
+            .pubmessage .msg {
+                font-size: 14px; /* Adjust for tablets and small screens */
+            }
+            }
+            @media screen and (max-width: 480px) {
+            .pubmessage .msg {
+                font-size: 14px; /* Adjust for tablets and small screens */
+            }
+            }
+    </style>
+<p class="msg">
   You may find the updated publication list on <a style="text-decoration: underline" href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
 </p>
+</div>
 {% endif %}
 <!-- view-source:https://www.cs.cmu.edu/~mmv/Veloso.html -->
 <style>
