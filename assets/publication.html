@@ -25,6 +25,24 @@
                 display: inline; 
                 margin-left: 8px; 
             }
+            /* Make font size responsive for smaller screens */
+            @media screen and (max-width: 768px) {
+            .bootstrap-scope html, body, span, h1 {
+                font-size: 14px; /* Adjust for tablets and small screens */
+            }
+            .bootstrap-scope .title {
+            font-size: 16px; /* Adjust title font size */
+            }
+            }
+
+            @media screen and (max-width: 480px) {
+                .bootstrap-scope html, body, span, h1 {
+                    font-size: 12px; /* Adjust for mobile phones */
+                }
+                .bootstrap-scope .title {
+                    font-size: 14px; /* Adjust title font size for small screens */
+                }
+            }
     </style>
     <div class="bibtex_structure">
     <div class="group year" extra="DESC string">
