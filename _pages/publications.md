@@ -35,7 +35,7 @@ toc: true
         /* Container to hold the iframe */
         .iframe-container {
             width: 100%;
-            height: 72vh; /* Make iframe fill the screen */
+            height: 83vh; /* Make iframe fill the screen */
         }
         #publication-frame {
             width: calc(100% - 15px);
