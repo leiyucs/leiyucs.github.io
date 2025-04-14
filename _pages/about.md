@@ -15,7 +15,7 @@ Lei Yu is a Tenure-Track Assistant Professor in the Department of Computer Scien
 ## About Me
 My recent research interests focus on data privacy, AI security, and the application of machine learning techniques to system security. My work on data privacy aims to identify threats and risks throughout the data lifecycle, analyze the limitations of existing privacy protection mechanisms, and develop principled algorithmic and system-level solutions. The goal is to effectively safeguard data privacy and ensure regulatory compliance, while preserving data utility.
 
-During my Ph.D. at the Georgia Institute of Technology, I focused on big data privacy and deep learning privacy. After completing my Ph.D., I joined IBM Research, where I worked on topics including large-scale log-based system anomaly detection, AI-Ops, privacy identification and protection in system data, and machine learning system optimization. Earlier in my academic journey, I worked on wireless sensor networks during my Ph.D. study at Harbin Institute of Technology in China.
+During my Ph.D. at Georgia Institute of Technology, I focused on big data privacy and deep learning privacy. After completing my Ph.D., I joined IBM Research, where I worked on topics including large-scale log-based system anomaly detection, AI-Ops, privacy identification and protection in system data, and machine learning system optimization. Earlier in my academic journey, I worked on wireless sensor networks during my Ph.D. study at Harbin Institute of Technology in China.
 
  
 ## Recent News ([...](/news/))
