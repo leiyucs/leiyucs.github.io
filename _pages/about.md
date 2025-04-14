@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Lei Yu is a Tenure-Track Assistant Professor in the Department of Computer Science at [Rensselaer Polytechnic Institute](https://www.rpi.edu/). Before that, he was a Research Staff Member at IBM Research, [IBM Thomas J. Watson Research Center](https://research.ibm.com/labs/watson/). His research interests include data privacy and security, trustworthy AI, machine learning systems, and mobile/cloud computing.
+Lei Yu is a Tenure-Track Assistant Professor in the Department of Computer Science at [Rensselaer Polytechnic Institute](https://www.rpi.edu/). Before that, he was a Research Staff Member at IBM Research, [IBM Thomas J. Watson Research Center](https://research.ibm.com/labs/watson/). He received his Ph.D. in Computer Science from [Georgia Institute of Technology](https://www.gatech.edu/). His research interests include data privacy and security, trustworthy AI, machine learning systems, and mobile/cloud computing.
 
 <!-- **To prospective graduate students**: Multiple Ph.D student (RA) positions are available. I am looking for self-motivated students who have strong interests in data privacy/security, trustworthy AI, exploiting and optimizing machine learning systems. If you are interested, drop me an e-mail with your CV and transcripts, and also please apply [here](https://admissions.rpi.edu/graduate/masters-and-phd-applicants) and mention my name in your application. -->
 
