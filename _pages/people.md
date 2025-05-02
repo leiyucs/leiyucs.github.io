@@ -40,3 +40,6 @@ author_profile: true
   - Yuetian Chen → CS Ph.D. at Purdue  
   - Qianting Gao → INI Master's at CMU  
   - Peiyao Wang → CS Master's at Northeastern
+
+
+</div>
