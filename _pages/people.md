@@ -5,7 +5,7 @@ permalink: /people/
 author_profile: true
 ---
 
-<div style="line-height: 1.3;">
+{: .compact-list }
 
 **Ph.D. Students**  
 - Zhexi Lu  
@@ -24,6 +24,7 @@ author_profile: true
 ---
 
 ## Lab Alumni
+{: .compact-list }
 
 **Class of 2025**  
 - *Master's*  
@@ -40,6 +41,3 @@ author_profile: true
   - Yuetian Chen → CS Ph.D. at Purdue  
   - Qianting Gao → INI Master's at CMU  
   - Peiyao Wang → CS Master's at Northeastern
-
-
-</div>
