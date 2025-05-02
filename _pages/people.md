@@ -4,7 +4,7 @@ title: "People"
 permalink: /people/
 author_profile: true
 ---
-### People
+## People
 
 **Ph.D. Students**  
 - Zhexi Lu  
@@ -22,20 +22,20 @@ author_profile: true
 
 ---
 
-### Lab Alumni
+## Lab Alumni
 
 **Class of 2025**  
-- *Master's*:  
+- *Master's*  
   - Aaron Zachariah → CS Ph.D. at RPI  
   - Tyler Chan → CS Ph.D. at RPI  
-- *Undergraduate Researchers*:  
+- *Undergraduate Researchers*  
   - Zhiqi Wang → CS Ph.D. at Penn State  
   - Kerui Wu → CS Ph.D. at Purdue  
   - Jichuan Wu  
   - Chengyu Zhang  
 
 **Class of 2024**  
-- *Undergraduate Researchers*:  
+- *Undergraduate Researchers*  
   - Yuetian Chen → CS Ph.D. at Purdue  
   - Qianting Gao → INI Master's at CMU  
   - Peiyao Wang → CS Master's at Northeastern
