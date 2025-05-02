@@ -10,10 +10,12 @@ author_profile: true
 **Ph.D. Students**  
 - Zhexi Lu  
 - Tyler Chan
+
 **Master's Students**  
 - Bhavya Chavali  
 - Zachary Bonagura  
 - Harry Kim
+
 **Undergraduate Researchers**  
 - Inah Lee  
 - Kirsten Szeto  
@@ -32,7 +34,8 @@ author_profile: true
   - Zhiqi Wang → CS Ph.D. at Penn State  
   - Kerui Wu → CS Ph.D. at Purdue  
   - Jichuan Wu  
-  - Chengyu Zhang  
+  - Chengyu Zhang
+
 **Class of 2024**  
 - *Undergraduate Researchers*  
   - Yuetian Chen → CS Ph.D. at Purdue  
