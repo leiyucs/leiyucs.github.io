@@ -402,6 +402,22 @@
 
 .compact-list {
   line-height: 1.3;
+  margin-top: 0.25rem;
   margin-bottom: 0.5rem;
-  margin-top: 0.2rem;     /* spacing before the block */
+}
+
+.compact-list li {
+  margin-top: 0.2rem;
+  margin-bottom: 0.2rem;
+}
+
+/* Optional: reduce space below bold labels like "Ph.D. Students" */
+.compact-list p {
+  margin-bottom: 0.3rem;
+}
+
+/* Optional: if your headings are causing extra space */
+.compact-list strong {
+  display: block;
+  margin-bottom: 0.3rem;
 }

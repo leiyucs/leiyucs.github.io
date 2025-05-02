@@ -10,12 +10,10 @@ author_profile: true
 **Ph.D. Students**  
 - Zhexi Lu  
 - Tyler Chan
-
 **Master's Students**  
 - Bhavya Chavali  
 - Zachary Bonagura  
 - Harry Kim
-
 **Undergraduate Researchers**  
 - Inah Lee  
 - Kirsten Szeto  
@@ -27,15 +25,14 @@ author_profile: true
 {: .compact-list }
 
 **Class of 2025**  
-- *Master's*  
-  - Aaron Zachariah → CS Ph.D. at RPI  
-  - Tyler Chan → CS Ph.D. at RPI  
+- *Master's*
+  - Tyler Chan → CS Ph.D. at RPI
+  - Aaron Zachariah  
 - *Undergraduate Researchers*  
   - Zhiqi Wang → CS Ph.D. at Penn State  
   - Kerui Wu → CS Ph.D. at Purdue  
   - Jichuan Wu  
   - Chengyu Zhang  
-
 **Class of 2024**  
 - *Undergraduate Researchers*  
   - Yuetian Chen → CS Ph.D. at Purdue  
