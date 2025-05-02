@@ -5,8 +5,8 @@ permalink: /people/
 author_profile: true
 ---
 * Ph.D students: Zhexi Lu, Tyler Chan
-* Master Students: Inah Lee, Bhavya Chavali, Zachary Bonagura, Harry Kim
-* Undergraduate researchers: Kirsten Szeto, Elvis Sun
+* Master Students: Bhavya Chavali, Zachary Bonagura, Harry Kim
+* Undergraduate researchers: Inah Lee, Kirsten Szeto, Elvis Sun
 
 * Lab Alumni
     - Master Students: 
