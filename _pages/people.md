@@ -4,8 +4,7 @@ title: "People"
 permalink: /people/
 author_profile: true
 ---
-## People
-
+<div style="line-height: 1.3;">
 **Ph.D. Students**  
 - Zhexi Lu  
 - Tyler Chan
