@@ -5,12 +5,12 @@ permalink: /people/
 author_profile: true
 ---
 * Ph.D students: Zhexi Lu, Tyler Chan
-* Master Students: Bhavya Chavali
-* Undergraduate researchers: Kerui Wu, Kirsten Szeto, Nico Wang, Henry Ye, Yuqing Peng, Elvis Sun
+* Master Students: Inah Lee, Bhavya Chavali, Zachary Bonagura, Harry Kim
+* Undergraduate researchers: Kirsten Szeto, Elvis Sun
 
 * Lab Alumni
     - Master Students: 
-        - 2025: Tyler Chan (=> CS Ph.D at RPI), Aaron Zachariah
+        - 2025: Aaron Zachariah, Tyler Chan (=> CS Ph.D at RPI)
     - Undergraduate researchers:
-        - 2025: Zhiqi Wang, Jichuan Wu, Chengyu Zhang
+        - 2025: Zhiqi Wang (=> CS Ph.D at PSU), Kerui Wu (=>CS Ph.D at Purdue), Jichuan Wu, Chengyu Zhang
         - 2024: Yuetian Chen (=>CS Ph.D at Purdue), Qianting Gao (=>INI Master at CMU), Peiyao Wang(=>CS Master at Northeastern)
