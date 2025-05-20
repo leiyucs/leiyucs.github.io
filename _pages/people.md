@@ -10,6 +10,7 @@ author_profile: true
 **Ph.D. Students**  
 - Zhexi Lu  
 - Tyler Chan
+- Jiatai Zhang
 
 **Master's Students**  
 - Bhavya Chavali  
