@@ -33,7 +33,7 @@ author_profile: true
   - Aaron Zachariah  
 - *Undergraduate Researchers*  
   - Zhiqi Wang → CS Ph.D. at Penn State  
-  - Kerui Wu → CS Ph.D. at Purdue  
+  - Kerui Wu → CS Ph.D. at UMASS  
   - Jichuan Wu  
   - Chengyu Zhang
 
