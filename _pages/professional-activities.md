@@ -23,7 +23,8 @@ author_profile: true
 * Publication chair, the 26th International Conference on Computer Communications and Networks (ICCCN 2017)
 
 ## Conference TPC Member
-* The 20th ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2025)
+* The 16th Symposium on Cloud Computing (SOCC) 2025
+* The 20th ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS) 2025
 * IEEE International Conference on Distributed Computing Systems (ICDCS), 2025, 2024, 2023, 2022, 2021, 2019 
 * IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (TPS) 2022, 2021, 2020 
 * The 27th International Conference on Computer Communications and Networks (ICCCN 2018) 
