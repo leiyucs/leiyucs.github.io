@@ -24,8 +24,8 @@ During my Ph.D. at Georgia Institute of Technology, I focused on big data privac
 
  
 ## Recent News ([...](/news/))
-<div class="grid__wrapper">
-  {% for post in site.news reversed limit: 20 %}
+<div class="grid__wrapper" style="font-size: 1rem; font-family: 'Lora', serif;">
+  {% for post in site.news reversed limit: 30 %}
      {% include archive-single-news.html %}
   {% endfor %}
 </div>
