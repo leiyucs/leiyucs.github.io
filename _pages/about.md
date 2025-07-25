@@ -20,7 +20,7 @@ I aim to identify threats and risks across the entire data lifecycle, analyze th
 </p>
 
 
-During my Ph.D. at Georgia Institute of Technology, I focused on big data privacy and deep learning privacy. After completing my Ph.D., I joined IBM Research, where I worked on topics including large-scale log-based system anomaly detection, AI-Ops, privacy identification and protection in system data, and machine learning system optimization. Earlier in my academic journey, I worked on wireless sensor networks during my Ph.D. study at Harbin Institute of Technology in China.
+During my Ph.D. at Georgia Institute of Technology, I focused on big data privacy and deep learning privacy. After completing my Ph.D., I joined IBM Research, where I worked on privacy identification and protection in system data, large-scale log-based anomaly detection, AI-Ops, and machine learning system optimization. Earlier in my academic journey, I worked on wireless sensor networks during my Ph.D. study at Harbin Institute of Technology in China.
 
  
 ## Recent News ([...](/news/))
