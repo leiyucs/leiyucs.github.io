@@ -14,7 +14,7 @@ Lei Yu is a Tenure-Track Assistant Professor in the Department of Computer Scien
 
 ## About Me
 <p>
-My research interests focus on data privacy, AI security, and the application of machine learning techniques to system security.
+My research interests focus on data privacy, AI security, and the application of machine learning to system security.
 <span style="padding: 2px 4px; background-color: #f9f9f9; border-radius: 4px; font-weight: 500; font-style: italic;">
 I aim to identify threats and risks across the entire data lifecycle, analyze the limitations of current privacy protection mechanisms, and develop principled algorithmic and system-level solutions. The goal is to ensure regulatory compliance and effectively safeguard data privacy—while maintaining practical data utility.</span>
 </p>
