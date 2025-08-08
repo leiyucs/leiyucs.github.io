@@ -19,7 +19,7 @@ My research interests focus on data privacy, AI security, and applying machine l
 For data privacy, I aim to identify threats and risks throughout the data lifecycle, analyze limitations of existing privacy protection mechanisms, and develop principled algorithmic and system-level solutions. The goal is to ensure regulatory compliance and effectively safeguard data privacy while maintaining practical data utility.
 </p>
 
-I received my Ph.D. in Computer Science from Georgia Institute of Technology. During my Ph.D., I focused on big data privacy and deep learning privacy. After completing my Ph.D., I joined IBM Research, where I worked on privacy identification and protection in diagnostic system data, large-scale log-based anomaly detection, AI-Ops, and machine learning system optimization. Earlier in my academic journey, I worked on wireless sensor networks during my Ph.D. study at Harbin Institute of Technology in China.
+I received my Ph.D. in Computer Science from Georgia Institute of Technology. During my Ph.D., I focused on big data privacy and deep learning privacy. After that, I joined IBM Research, where I worked on privacy identification and protection in diagnostic system data, large-scale log-based anomaly detection, AI-Ops, and machine learning system optimization. Earlier in my academic journey, I worked on wireless sensor networks during my Ph.D. study at Harbin Institute of Technology in China.
 
  
 ## Recent News ([...](/news/))
